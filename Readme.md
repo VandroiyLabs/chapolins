@@ -1,8 +1,6 @@
 Chapolins
 ====
 
-<br />
-
 A change point problems can be stated as follows: given a time series, how likely was there a change of distribution in those points? If there was, when that happened? Answering both questions is the main point of change point detection & analysis. Chapolins is a library we have been developing for nonparametric change point analysis, versatile and easily expanded. We designed it using scipy's look & feel.
 
 By integrating C libaries, fast searching algorithms and some parallelism (being developed), we have been applying this especially into neuroscience, animal communication and electronic nose applications.
