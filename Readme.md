@@ -5,7 +5,7 @@ A change point problems can be stated as follows: given a time series, how likel
 
 By integrating C libaries, fast searching algorithms and some parallelism (being developed), we have been applying this especially into neuroscience, animal communication and electronic nose applications.
 
-If you are using this package, please make sure to cite us [Mosqueiro et al @ CISS 2016]() and the authors of the methods we implemented (for an incomplete, but informative, list check our methods section below).
+If you are using this package, please make sure to cite us [Mosqueiro et al @ CISS 2016](https://www.researchgate.net/publication/292982370_Non-parametric_Change_Point_Detection_for_Spike_Trains) and the authors of the methods we implemented (for an incomplete, but informative, list check our methods section below).
 
 
 *The code will be fully available in a few weeks, when the paper is published*
